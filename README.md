@@ -1,6 +1,6 @@
 # Taiwan-futures-trading-with-shiaoji
 
-There will be two .py file.
+There will be two .py files.
 
 ### backtesting.py
 This is for backtesting stratigies. 

@@ -9,4 +9,4 @@ This is for backtesting stratigies.
 This is appling this stratigies by connecting to brokerage APIs for program trading. 
 
 ### historical data
-There are 4 csv files in the historical data folder, which is historical data of MTFX(Mini Taiwan Future)from 2018~2021
+There are 4 csv files in the historical data folder, which is historical data of FIMTXN(Mini Taiwan Future)from 2018~2021

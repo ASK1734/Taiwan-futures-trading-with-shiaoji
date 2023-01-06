@@ -8,5 +8,5 @@ This is for backtesting stratigies.
 ### 261final.py
 This is appling this stratigies by connecting to brokerage APIs for program trading. 
 
-### CSVfile
-The csv files from 2018~2021 is historical data of MTFX(Mini Taiwan Future)
+### historical data
+There are 4 csv files in the historical data folder, which is historical data of MTFX(Mini Taiwan Future)from 2018~2021

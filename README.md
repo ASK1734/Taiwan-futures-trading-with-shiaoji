@@ -1,4 +1,4 @@
-# Taiwan-futures-trading-with-shiaoji
+# Taiwan-futures-trading-with-shioaji
 
 There will be two .py files.
 
